@@ -1,0 +1,546 @@
+[
+  {
+    "id": "beach_1",
+    "title": {
+      "en": "Beautiful Beach",
+      "de": "Wunderschöner Strand",
+      "es": "ESP_Title"
+    },
+    "description": {
+      "en": "The most beautiful Beach on Mallorca.",
+      "de": "Der schönste Strand auf Mallorca.",
+      "es": "ESP_Description"
+    },
+    "image": "assets/images/station_images/beach1.jpg",
+    "latitude": 52.273380,
+    "longitude": 8.048247,
+    "category": "beach"
+  },
+  {
+    "id": "neumarkt_start",
+    "title": {
+      "en": "Neumarkt Start",
+      "de": "Start Neumarkt",
+      "es": "Inicio Neumarkt"
+    },
+    "description": {
+      "en": "Meeting point at Neumarkt 7, Osnabrück.",
+      "de": "Treffpunkt am Neumarkt 7 in Osnabrück.",
+      "es": "Punto de encuentro en Neumarkt 7, Osnabrück."
+    },
+    "image": "assets/images/station_images/beach1.jpg",
+    "latitude": 52.2733,
+    "longitude": 8.0483,
+    "category": "other"
+  },
+  {
+    "id": "lt_store",
+    "title": {
+      "en": "L&T Entrance",
+      "de": "L&T Eingang",
+      "es": "Entrada L&T"
+    },
+    "description": {
+      "en": "Front of L&T Osnabrück.",
+      "de": "Vor dem L&T Osnabrück.",
+      "es": "Frente al L&T Osnabrück."
+    },
+    "image": "assets/images/station_images/beach1.jpg",
+    "latitude": 52.274580,
+    "longitude": 8.046430,
+    "category": "other"
+  },
+  {
+    "id": "stadtgalerie",
+    "title": {
+      "en": "StadtGalerie",
+      "de": "StadtGalerie",
+      "es": "StadtGalerie"
+    },
+    "description": {
+      "en": "Corner by the StadtGalerie and cinema.",
+      "de": "Ecke bei der StadtGalerie und dem Kino.",
+      "es": "Esquina junto a la StadtGalerie y el cine."
+    },
+    "image": "assets/images/station_images/beach1.jpg",
+    "latitude": 52.273050,
+    "longitude": 8.047000,
+    "category": "culture"
+  },
+  {
+    "id": "herrenteichswall",
+    "title": {
+      "en": "Herrenteichswall Park",
+      "de": "Herrenteichswall Park",
+      "es": "Parque Herrenteichswall"
+    },
+    "description": {
+      "en": "Green spot along Herrenteichswall.",
+      "de": "Grüne Ecke am Herrenteichswall.",
+      "es": "Zona verde en Herrenteichswall."
+    },
+    "image": "assets/images/station_images/beach1.jpg",
+    "latitude": 52.273800,
+    "longitude": 8.048600,
+    "category": "park"
+  },
+  {
+    "id": "beach_2",
+    "title": {
+      "en": "Another Beautiful Beach",
+      "de": "Ein weiterer Wunderschöner Strand",
+      "es": "ESP_Title"
+    },
+    "description": {
+      "en": "The 2nd most beautiful Beach on Mallorca.",
+      "de": "Der zweit schönste Strand auf Mallorca.",
+      "es": "ESP_Description"
+    },
+    "image": "assets/images/station_images/beach1.jpg",
+    "latitude": 52.273483,
+    "longitude": 8.046734,
+    "category": "beach"
+  },
+  {
+    "id": "beach_3",
+    "title": {
+      "en": "L&T Beach",
+      "de": "L&T Strand",
+      "es": "ESP_Title"
+    },
+    "description": {
+      "en": "Location in front of L&T",
+      "de": "Standort vor L&T",
+      "es": "ESP_Description"
+    },
+    "image": "assets/images/station_images/beach1.jpg",
+    "latitude": 52.274586,
+    "longitude": 8.046434,
+    "category": "beach"
+  },
+  {
+    "id": "gustav_grun",
+    "title": {
+      "en": "Gustav Grün",
+      "de": "Gustav Grün",
+      "es": "ESP_Title"
+    },
+    "description": {
+      "en": "Vegan Restaurant with Wraps and Bowls",
+      "de": "Veganes Restaurant mit Wraps und Bowls",
+      "es": "ESP_Description"
+    },
+    "image": "assets/images/station_images/beach1.jpg",
+    "latitude": 52.272466,
+    "longitude": 8.045948,
+    "category": "food"
+  },
+  {
+    "id": "landgericht",
+    "title": {
+      "en": "Landgericht",
+      "de": "Landgericht",
+      "es": "ESP_Title"
+    },
+    "description": {
+      "en": "Court in Osnabrück",
+      "de": "Gericht in Osnabrück",
+      "es": "ESP_Description"
+    },
+    "image": "assets/images/station_images/beach1.jpg",
+    "latitude": 52.272668,
+    "longitude": 8.049430,
+    "category": "culture"
+  },
+  {
+    "id": "vespahouse",
+    "title": {
+      "en": "Vespa House",
+      "de": "Vespa House",
+      "es": "Vespa House"
+    },
+    "description": {
+      "en": "Vespa House in Paguera",
+      "de": "Vespa House in Paguera",
+      "es": "Vespa house in Paguera"
+    },
+    "image": "assets/images/station_images/beach1.jpg",
+    "latitude": 39.538520252662714,
+    "longitude": 2.448403641878562,
+    "category": "other"
+  },
+  {
+    "id": "cala_fornells",
+    "title": {
+      "en": "Cala Fornells",
+      "de": "Cala Fornells",
+      "es": "Cala Fornells"
+    },
+    "description": {
+      "en": "A beautiful cove in Paguera.",
+      "de": "Eine schöne Bucht in Paguera.",
+      "es": "Una hermosa cala en Paguera."
+    },
+    "image": "assets/images/station_images/cala_fornells.jpg",
+    "latitude": 39.53463724705401,
+    "longitude": 2.4429993385758735,
+    "category": "beach"
+  },
+  {
+    "id": "calo_de_ses_llisses",
+    "title": {
+      "en": "Caló de Ses Llisses",
+      "de": "Caló de Ses Llisses",
+      "es": "Caló de Ses Llisses"
+    },
+    "description": {
+      "en": "A small cove with crystal-clear water.",
+      "de": "Eine kleine Bucht mit kristallklarem Wasser.",
+      "es": "Una pequeña cala con agua cristalina."
+    },
+    "image": "assets/images/station_images/calo_de_ses_llisses.jpg",
+    "latitude": 39.531481311094346,
+    "longitude": 2.4387893167069943,
+    "category": "beach"
+  },
+  {
+    "id": "calo_d_en_monjo",
+    "title": {
+      "en": "Caló d'en Monjo",
+      "de": "Caló d'en Monjo",
+      "es": "Caló d'en Monjo"
+    },
+    "description": {
+      "en": "A secluded cove surrounded by nature.",
+      "de": "Eine abgelegene Bucht umgeben von Natur.",
+      "es": "Una cala aislada rodeada de naturaleza."
+    },
+    "image": "assets/images/station_images/calo_d_en_monjo.jpg",
+    "latitude": 39.52938999150946,
+    "longitude": 2.4299217069108,
+    "category": "beach"
+  },
+  {
+    "id": "platja_de_la_romana",
+    "title": {
+      "en": "Platja de la Romana",
+      "de": "Platja de la Romana",
+      "es": "Platja de la Romana"
+    },
+    "description": {
+      "en": "A sandy beach with great facilities.",
+      "de": "Ein Sandstrand mit tollen Einrichtungen.",
+      "es": "Una playa de arena con excelentes instalaciones."
+    },
+    "image": "assets/images/station_images/platja_de_la_romana.jpg",
+    "latitude": 39.53359363121809,
+    "longitude": 2.458546238693381,
+    "category": "beach"
+  },
+  {
+    "id": "embarcadero_playa_tora",
+    "title": {
+      "en": "Embarcadero Playa Tora",
+      "de": "Embarcadero Playa Tora",
+      "es": "Embarcadero Playa Tora"
+    },
+    "description": {
+      "en": "A pier at Playa Tora beach.",
+      "de": "Ein Pier am Strand Playa Tora.",
+      "es": "Un muelle en la playa Playa Tora."
+    },
+    "image": "assets/images/station_images/embarcadero_playa_tora.jpg",
+    "latitude": 39.53524853765351,
+    "longitude": 2.4544263660530095,
+    "category": "beach"
+  },
+  {
+    "id": "platja_palmira",
+    "title": {
+      "en": "Platja Palmira",
+      "de": "Platja Palmira",
+      "es": "Platja Palmira"
+    },
+    "description": {
+      "en": "A popular beach in Paguera.",
+      "de": "Ein beliebter Strand in Paguera.",
+      "es": "Una playa popular en Paguera."
+    },
+    "image": "assets/images/station_images/platja_palmira.jpg",
+    "latitude": 39.53713508286699,
+    "longitude": 2.451250630892723,
+    "category": "beach"
+  },
+  {
+    "id": "port_d_andratx",
+    "title": {
+      "en": "Port d'Andratx",
+      "de": "Port d'Andratx",
+      "es": "Port d'Andratx"
+    },
+    "description": {
+      "en": "The beautfiul harbor of Andratx.",
+      "de": "Der schöne Hafen von Andratx.",
+      "es": "El hermoso puerto de Andratx."
+    },
+    "image": "assets/images/station_images/platja_palmira.jpg",
+    "latitude": 39.544577,
+    "longitude": 2.388306,
+    "category": "beach"
+  },
+  {
+    "id": "sant_elm",
+    "title": {
+      "en": "Sant Elm",
+      "de": "Sant Elm",
+      "es": "Sant Elm"
+    },
+    "description": {
+      "en": "A village with a beautiful beach.",
+      "de": "Ein Dorf mit einem schönen Strand.",
+      "es": "Una aldea con una hermosa playa."
+    },
+    "image": "assets/images/station_images/platja_palmira.jpg",
+    "latitude": 39.578264,
+    "longitude": 2.354448,
+    "category": "beach"
+  },
+  {
+    "id": "s_arraco",
+    "title": {
+      "en": "s'Arracó",
+      "de": "s'Arracó",
+      "es": "s'Arracó"
+    },
+    "description": {
+      "en": "A charming small village.",
+      "de": "Ein charmantes kleines Dorf.",
+      "es": "Una encantadora aldea pequeña."
+    },
+    "image": "assets/images/station_images/platja_palmira.jpg",
+    "latitude": 39.577632,
+    "longitude": 2.390149,
+    "category": "other"
+  },
+  {
+    "id": "andratx",
+    "title": {
+      "en": "Andratx",
+      "de": "Andratx",
+      "es": "Andratx"
+    },
+    "description": {
+      "en": "The idyllic town of Andratx.",
+      "de": "Die idyllische Stadt Andratx.",
+      "es": "La idílica ciudad de Andratx."
+    },
+    "image": "assets/images/station_images/platja_palmira.jpg",
+    "latitude": 39.576214,
+    "longitude": 2.424937,
+    "category": "culture"
+  },
+  {
+    "id": "es_capdella",
+    "title": {
+      "en": "Es Capdella",
+      "de": "Es Capdella",
+      "es": "Es Capdella"
+    },
+    "description": {
+      "en": "A multicultural village with a rich history.",
+      "de": "Ein multikulturelles Dorf mit reicher Geschichte.",
+      "es": "Una aldea multicultural con una rica historia."
+    },
+    "image": "assets/images/station_images/platja_palmira.jpg",
+    "latitude": 39.578748,
+    "longitude": 2.469022,
+    "category": "culture"
+  },
+  {
+    "id": "platja_de_chicanso",
+    "title": {
+      "en": "Platja de Chicanso",
+      "de": "Platja de Chicanso",
+      "es": "Platja de Chicanso"
+    },
+    "description": {
+      "en": "A secluded beach on the outskirts of Palma.",
+      "de": "Ein versteckter Strand am Stadtrand von Palma.",
+      "es": "Una playa encantadora en las afueras de Palma."
+    },
+    "image": "assets/images/station_images/platja_palmira.jpg",
+    "latitude": 39.544828,
+    "longitude": 2.595885,
+    "category": "beach"
+  },
+  {
+    "id": "playa_de_illetes",
+    "title": {
+      "en": "Playa de Illetes",
+      "de": "Playa de Illetes",
+      "es": "Playa de Illetes"
+    },
+    "description": {
+      "en": "A paradisic beach on the outskirts of Palma.",
+      "de": "Ein paradiesischer Strand am Stadtrand von Palma.",
+      "es": "Una playa paradisíaca en las afueras de Palma."
+    },
+    "image": "assets/images/station_images/platja_palmira.jpg",
+    "latitude": 39.534421,
+    "longitude": 2.589265,
+    "category": "beach"
+  },
+  {
+    "id": "caleta_de_portals_nous",
+    "title": {
+      "en": "Caleta de Portals Nous",
+      "de": "Caleta de Portals Nous",
+      "es": "Caleta de Portals Nous"
+    },
+    "description": {
+      "en": "A charming small bay in Portals Nous.",
+      "de": "Eine charmante kleine Bucht in Portals Nous.",
+      "es": "Una encantadora pequeña bahía en Portals Nous."
+    },
+    "image": "assets/images/station_images/platja_palmira.jpg",
+    "latitude": 39.533916,
+    "longitude": 2.576425,
+    "category": "beach"
+  },
+  {
+    "id": "puerto_portals",
+    "title": {
+      "en": "Puerto Portals",
+      "de": "Puerto Portals",
+      "es": "Puerto Portals"
+    },
+    "description": {
+      "en": "A stunning view of the marina of Portals Nous.",
+      "de": "Ein atemberaubender Blick auf den Yachthafen von Portals Nous.",
+      "es": "Una vista impresionante del puerto deportivo de Portals Nous."
+    },
+    "image": "assets/images/station_images/platja_palmira.jpg",
+    "latitude": 39.529591,
+    "longitude": 2.565640,
+    "category": "beach"
+  },
+  {
+    "id": "torrenova",
+    "title": {
+      "en": "Torrenova",
+      "de": "Torrenova",
+      "es": "Torrenova"
+    },
+    "description": {
+      "en": "A lively coastal area with many restaurants and bars.",
+      "de": "Ein lebhaftes Küstengebiet mit vielen Restaurants und Bars.",
+      "es": "Una zona costera animada con muchos restaurantes y bares."
+    },
+    "image": "assets/images/station_images/platja_palmira.jpg",
+    "latitude": 39.511143,
+    "longitude": 2.541313,
+    "category": "culture"
+  },
+  {
+    "id": "magaluv_viewpoint",
+    "title": {
+      "en": "Magaluf Viewpoint",
+      "de": "Magaluf Aussichtspunkt",
+      "es": "Mirador de Magaluf"
+    },
+    "description": {
+      "en": "A stunning viewpoint overlooking Magaluf.",
+      "de": "Ein atemberaubender Aussichtspunkt mit Blick auf Magaluf.",
+      "es": "Un impresionante mirador con vistas a Magaluf."
+    },
+    "image": "assets/images/station_images/platja_palmira.jpg",
+    "latitude": 39.513916,
+    "longitude": 2.525021,
+    "category": "other"
+  },
+  {
+    "id": "calvia_beach",
+    "title": {
+      "en": "Calvià Beach",
+      "de": "Calvià Strand",
+      "es": "Playa de Calvià"
+    },
+    "description": {
+      "en": "NO DESCRIPTION",
+      "de": "KEINE BESCHREIBUNG",
+      "es": "NO HAY DESCRIPCIÓN"
+    },
+    "image": "assets/images/station_images/platja_palmira.jpg",
+    "latitude": 39.503093762214895,
+    "longitude": 2.5335560368890975,
+    "category": "other"
+  },
+  {
+    "id": "calo_de_sa_nostra_dona",
+    "title": {
+      "en": "Calo de Sa Nostra Dona",
+      "de": "Calo de Sa Nostra Dona",
+      "es": "Calo de Sa Nostra Dona"
+    },
+    "description": {
+      "en": "NO DESCRIPTION",
+      "de": "KEINE BESCHREIBUNG",
+      "es": "NO HAY DESCRIPCIÓN"
+    },
+    "image": "assets/images/station_images/platja_palmira.jpg",
+    "latitude": 39.483393545913046,
+    "longitude": 2.52994228640645,
+    "category": "other"
+  },
+  {
+    "id": "platja_del_rei",
+    "title": {
+      "en": "Platja del Rei",
+      "de": "Platja del Rei",
+      "es": "Platja del Rei"
+    },
+    "description": {
+      "en": "NO DESCRIPTION",
+      "de": "KEINE BESCHREIBUNG",
+      "es": "NO HAY DESCRIPCIÓN"
+    },
+    "image": "assets/images/station_images/platja_palmira.jpg",
+    "latitude": 39.47642175879173,
+    "longitude": 2.5207518889143903,
+    "category": "beach"
+  },
+  {
+    "id": "port_adriano",
+    "title": {
+      "en": "Port Adriano",
+      "de": "Port Adriano",
+      "es": "Port Adriano"
+    },
+    "description": {
+      "en": "NO DESCRIPTION",
+      "de": "KEINE BESCHREIBUNG",
+      "es": "NO HAY DESCRIPCIÓN"
+    },
+    "image": "assets/images/station_images/platja_palmira.jpg",
+    "latitude": 39.490497543219725,
+    "longitude": 2.479176822749332,
+    "category": "beach"
+  },
+  {
+    "id": "platja_cala_blanca",
+    "title": {
+      "en": "Platja Cala Blanca",
+      "de": "Platja Cala Blanca",
+      "es": "Platja Cala Blanca"
+    },
+    "description": {
+      "en": "NO DESCRIPTION",
+      "de": "KEINE BESCHREIBUNG",
+      "es": "NO HAY DESCRIPCIÓN"
+    },
+    "image": "assets/images/station_images/platja_palmira.jpg",
+    "latitude": 39.52257592332537,
+    "longitude": 2.4686228036402897,
+    "category": "beach"
+  }
+]
