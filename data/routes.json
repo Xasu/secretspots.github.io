@@ -24,9 +24,9 @@
   {
     "id": "osna_walk_neumarkt",
     "name": {
-      "en": "Osnabrück Neumarkt Walk",
-      "de": "Osnabrück Neumarkt Runde",
-      "es": "Paseo Neumarkt Osnabrück"
+      "en": "Osnabrück Neumarkt Walk - Test Tour",
+      "de": "Osnabrück Neumarkt Runde - Test Tour",
+      "es": "Paseo Neumarkt Osnabrück - Test Tour"
     },
     "description": ["Short walking loop around Neumarkt, Osnabrück."],
     "stationIds": [
