@@ -1,0 +1,40 @@
+[
+  {
+    "id": "route1",
+    "name": {
+      "en": "Vespa Tour 1 - Andratx and its surroundings",
+      "de": "Vespa Tour 1 - Andratx und Umgebung",
+      "es": "Vespa Tour 1 - Andratx y sus alrededores"
+    },
+    "description": ["A scenic tour around Andratx!"],
+    "stationIds": ["port_d_andratx","sant_elm","s_arraco","andratx","es_capdella","vespahouse"],
+    "allowedCodes": ["ROUTE1"]
+  },
+  {
+    "id": "route2",
+    "name": {
+      "en": "Vespa Tour 2 - Beaches and Ports",
+      "de": "Vespa Tour 2 - Strände und Häfen",
+      "es": "Vespa Tour 2 - Playas y Puertos"
+    },
+    "description": ["A scenic tour to different beaches and ports!"],
+    "stationIds": ["platja_de_chicanso","playa_de_illetes","caleta_de_portals_nous","purto_portals","torrenova","magaluv_viewpoint","calvia_beach","calo_de_sa_nostra_dona","platja_del_rei","port_adriano","platja_cala_blanca","vespahouse"],
+    "allowedCodes": ["ROUTE2"]
+  },
+  {
+    "id": "osna_walk_neumarkt",
+    "name": {
+      "en": "Osnabrück Neumarkt Walk",
+      "de": "Osnabrück Neumarkt Runde",
+      "es": "Paseo Neumarkt Osnabrück"
+    },
+    "description": ["Short walking loop around Neumarkt, Osnabrück."],
+    "stationIds": [
+      "lt_store",
+      "beach_2",
+      "neumarkt_start"
+    ],
+    "allowedCodes": ["ROUTE3"]
+  }
+  
+]
