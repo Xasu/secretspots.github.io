@@ -35,22 +35,5 @@
       "neumarkt_start"
     ],
     "allowedCodes": ["ROUTE3"]
-  },
-  {
-    "id": "osna_walk_2",
-    "name": {
-      "en": "Osnabrück TEST TOUR",
-      "de": "Osnabrück TEST TOUR DE",
-      "es": "Osnabrück TEST TOUR ESP"
-    },
-    "description": ["Short walking loop around Neumarkt, Osnabrück."],
-    "stationIds": [
-      "lt_store",
-      "beach_2",
-      "neumarkt_start"
-    ],
-    "allowedCodes": ["ROUTE3"]
   }
-  
-  
 ]
