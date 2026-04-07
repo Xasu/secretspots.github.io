@@ -20,20 +20,5 @@
     "description": ["A scenic tour to different beaches and ports!"],
     "stationIds": ["platja_de_chicanso","playa_de_illetes","caleta_de_portals_nous","purto_portals","torrenova","magaluv_viewpoint","calvia_beach","calo_de_sa_nostra_dona","platja_del_rei","port_adriano","platja_cala_blanca","vespahouse"],
     "allowedCodes": ["ROUTE2"]
-  },
-  {
-    "id": "osna_walk_neumarkt",
-    "name": {
-      "en": "Osnabrück Neumarkt Walk Tour",
-      "de": "Osnabrück Neumarkt Runde Tour",
-      "es": "Paseo Neumarkt Osnabrück Tour"
-    },
-    "description": ["Short walking loop around Neumarkt, Osnabrück."],
-    "stationIds": [
-      "lt_store",
-      "beach_2",
-      "neumarkt_start"
-    ],
-    "allowedCodes": ["ROUTE3"]
   }
 ]
