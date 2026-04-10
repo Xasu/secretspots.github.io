@@ -130,7 +130,7 @@
       "de": "Der schöne Hafen von Andratx.",
       "es": "El hermoso puerto de Andratx."
     },
-    "image": "assets/images/station_images/platja_palmira.jpg",
+    "image": "https://raw.githubusercontent.com/Xasu/secretspots.github.io/main/images/andtratx1_1775810582494.jpg",
     "latitude": 39.544738557547824,
     "longitude": 2.3881773485113915,
     "category": "port"
@@ -147,7 +147,7 @@
       "de": "Ein Dorf mit einem schönen Strand.",
       "es": "Una aldea con una hermosa playa."
     },
-    "image": "assets/images/station_images/platja_palmira.jpg",
+    "image": "https://raw.githubusercontent.com/Xasu/secretspots.github.io/main/images/antratx2_1775812786717.jpg",
     "latitude": 39.57942776910182,
     "longitude": 2.351360050781986,
     "category": "culture"
@@ -389,5 +389,39 @@
     "latitude": 39.52257592332537,
     "longitude": 2.4686228036402897,
     "category": "beach"
-  }
+  },
+  {
+   "id":"Sant Elm Restaurant",
+   "title": {
+      "en":"Sant Elm Restaurant",
+      "es":"Sant Elm Restaurant",
+      "de":"Sant Elm Restaurant"
+   },
+   "description":{
+      "en":"",
+      "es":"",
+      "de":""
+   },
+   "image":"https://raw.githubusercontent.com/Xasu/secretspots.github.io/main/images/sant_elm_restaurant_1775814287927.jpg",
+   "latitude":39.57834489272662,
+   "longitude":2.3534566307669227,
+   "category":"other"
+},
+{
+   "id":"Strand Sant Elm",
+   "title":{
+      "en":"Strand Sant Elm",
+      "es":"Strand Sant Elm",
+      "de":"Strand Sant Elm"
+   },
+   "description":{
+      "en":"",
+      "es":"",
+      "de":""
+   },
+   "image":"https://raw.githubusercontent.com/Xasu/secretspots.github.io/main/images/strand_sant_elm_1775814772109.jpg",
+   "latitude":39.578070283692995,
+   "longitude":2.3537812951235852,
+   "category":"other"
+},
 ]
