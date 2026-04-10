@@ -1,158 +1,5 @@
 [
   {
-    "id": "beach_1",
-    "title": {
-      "en": "Beautiful Beach",
-      "de": "Wunderschöner Strand",
-      "es": "ESP_Title"
-    },
-    "description": {
-      "en": "The most beautiful Beach on Mallorca.",
-      "de": "Der schönste Strand auf Mallorca.",
-      "es": "ESP_Description"
-    },
-    "image": "assets/images/station_images/beach1.jpg",
-    "latitude": 52.273380,
-    "longitude": 8.048247,
-    "category": "beach"
-  },
-  {
-    "id": "neumarkt_start",
-    "title": {
-      "en": "Neumarkt Start",
-      "de": "Start Neumarkt",
-      "es": "Inicio Neumarkt"
-    },
-    "description": {
-      "en": "Meeting point at Neumarkt 7, Osnabrück.",
-      "de": "Treffpunkt am Neumarkt 7 in Osnabrück.",
-      "es": "Punto de encuentro en Neumarkt 7, Osnabrück."
-    },
-    "image": "assets/images/station_images/beach1.jpg",
-    "latitude": 52.2733,
-    "longitude": 8.0483,
-    "category": "other"
-  },
-  {
-    "id": "lt_store",
-    "title": {
-      "en": "L&T Entrance",
-      "de": "L&T Eingang",
-      "es": "Entrada L&T"
-    },
-    "description": {
-      "en": "Front of L&T Osnabrück.",
-      "de": "Vor dem L&T Osnabrück.",
-      "es": "Frente al L&T Osnabrück."
-    },
-    "image": "assets/images/station_images/beach1.jpg",
-    "latitude": 52.274580,
-    "longitude": 8.046430,
-    "category": "other"
-  },
-  {
-    "id": "stadtgalerie",
-    "title": {
-      "en": "StadtGalerie",
-      "de": "StadtGalerie",
-      "es": "StadtGalerie"
-    },
-    "description": {
-      "en": "Corner by the StadtGalerie and cinema.",
-      "de": "Ecke bei der StadtGalerie und dem Kino.",
-      "es": "Esquina junto a la StadtGalerie y el cine."
-    },
-    "image": "assets/images/station_images/beach1.jpg",
-    "latitude": 52.273050,
-    "longitude": 8.047000,
-    "category": "culture"
-  },
-  {
-    "id": "herrenteichswall",
-    "title": {
-      "en": "Herrenteichswall Park",
-      "de": "Herrenteichswall Park",
-      "es": "Parque Herrenteichswall"
-    },
-    "description": {
-      "en": "Green spot along Herrenteichswall.",
-      "de": "Grüne Ecke am Herrenteichswall.",
-      "es": "Zona verde en Herrenteichswall."
-    },
-    "image": "assets/images/station_images/beach1.jpg",
-    "latitude": 52.273800,
-    "longitude": 8.048600,
-    "category": "park"
-  },
-  {
-    "id": "beach_2",
-    "title": {
-      "en": "Another Beautiful Beach",
-      "de": "Ein weiterer Wunderschöner Strand",
-      "es": "ESP_Title"
-    },
-    "description": {
-      "en": "The 2nd most beautiful Beach on Mallorca.",
-      "de": "Der zweit schönste Strand auf Mallorca.",
-      "es": "ESP_Description"
-    },
-    "image": "assets/images/station_images/beach1.jpg",
-    "latitude": 52.273483,
-    "longitude": 8.046734,
-    "category": "beach"
-  },
-  {
-    "id": "beach_3",
-    "title": {
-      "en": "L&T Beach",
-      "de": "L&T Strand",
-      "es": "ESP_Title"
-    },
-    "description": {
-      "en": "Location in front of L&T",
-      "de": "Standort vor L&T",
-      "es": "ESP_Description"
-    },
-    "image": "assets/images/station_images/beach1.jpg",
-    "latitude": 52.274586,
-    "longitude": 8.046434,
-    "category": "beach"
-  },
-  {
-    "id": "gustav_grun",
-    "title": {
-      "en": "Gustav Grün",
-      "de": "Gustav Grün",
-      "es": "ESP_Title"
-    },
-    "description": {
-      "en": "Vegan Restaurant with Wraps and Bowls",
-      "de": "Veganes Restaurant mit Wraps und Bowls",
-      "es": "ESP_Description"
-    },
-    "image": "assets/images/station_images/beach1.jpg",
-    "latitude": 52.272466,
-    "longitude": 8.045948,
-    "category": "food"
-  },
-  {
-    "id": "landgericht",
-    "title": {
-      "en": "Landgericht",
-      "de": "Landgericht",
-      "es": "ESP_Title"
-    },
-    "description": {
-      "en": "Court in Osnabrück",
-      "de": "Gericht in Osnabrück",
-      "es": "ESP_Description"
-    },
-    "image": "assets/images/station_images/beach1.jpg",
-    "latitude": 52.272668,
-    "longitude": 8.049430,
-    "category": "culture"
-  },
-  {
     "id": "vespahouse",
     "title": {
       "en": "Vespa House",
@@ -284,9 +131,9 @@
       "es": "El hermoso puerto de Andratx."
     },
     "image": "assets/images/station_images/platja_palmira.jpg",
-    "latitude": 39.544577,
-    "longitude": 2.388306,
-    "category": "beach"
+    "latitude": 39.544738557547824,
+    "longitude": 2.3881773485113915,
+    "category": "port"
   },
   {
     "id": "sant_elm",
@@ -301,9 +148,9 @@
       "es": "Una aldea con una hermosa playa."
     },
     "image": "assets/images/station_images/platja_palmira.jpg",
-    "latitude": 39.578264,
-    "longitude": 2.354448,
-    "category": "beach"
+    "latitude": 39.57942776910182,
+    "longitude": 2.351360050781986,
+    "category": "culture"
   },
   {
     "id": "s_arraco",
@@ -335,8 +182,8 @@
       "es": "La idílica ciudad de Andratx."
     },
     "image": "assets/images/station_images/platja_palmira.jpg",
-    "latitude": 39.576214,
-    "longitude": 2.424937,
+    "latitude": 39.57545606050597,
+    "longitude": 2.4213351200703404,
     "category": "culture"
   },
   {
@@ -352,8 +199,8 @@
       "es": "Una aldea multicultural con una rica historia."
     },
     "image": "assets/images/station_images/platja_palmira.jpg",
-    "latitude": 39.578748,
-    "longitude": 2.469022,
+    "latitude": 39.578927086254694,
+    "longitude": 2.4697734880960054,
     "category": "culture"
   },
   {
