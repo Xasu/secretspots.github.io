@@ -2,12 +2,12 @@
   {
     "id": "route1",
     "name": {
-      "en": "Vespa Tour 1 - Andratx and its surroundings",
-      "de": "Vespa Tour 1 - Andratx und Umgebung",
-      "es": "Vespa Tour 1 - Andratx y sus alrededores"
+      "en": "Port Andratx - Sant Elm - Andratx - Capdella",
+      "de": "Port Andratx - Sant Elm - Andratx - Capdella",
+      "es": "Port Andratx - Sant Elm - Andratx - Capdella"
     },
     "description": ["A scenic tour around Andratx!"],
-    "stationIds": ["port_d_andratx","sant_elm","s_arraco","andratx","es_capdella","vespahouse"],
+    "stationIds": ["port_d_andratx","sant_elm","andratx","es_capdella","vespahouse"],
     "allowedCodes": ["ROUTE1"]
   },
   {
