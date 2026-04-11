@@ -436,7 +436,7 @@
          "es":"",
          "de":""
       },
-      "image":"images/station_images/tramontana1_1775827104990.jpg",
+      "image":"lib/images/station_images/tramontana1_1775827104990.jpg",
       "latitude":39.64506197358322,
       "longitude":2.4504469704747116,
       "category":"other"
@@ -453,7 +453,7 @@
          "es":"",
          "de":""
       },
-      "image":"images/station_images/tramontana2_estellencs__1775829803907.jpg",
+      "image":"lib/images/station_images/tramontana2_estellencs__1775829803907.jpg",
       "latitude":39.65266624072696,
       "longitude":2.480926904319186,
       "category":"other"
@@ -470,7 +470,7 @@
          "es":"",
          "de":""
       },
-      "image":"images/station_images/tramontana3_banyalbufar__1775830669659.jpg",
+      "image":"lib/images/station_images/tramontana3_banyalbufar__1775830669659.jpg",
       "latitude":39.68682482167673,
       "longitude":2.513079081448408,
       "category":"other"
@@ -487,7 +487,7 @@
          "es":"",
          "de":""
       },
-      "image":"images/station_images/tramontana4_valdemossa__1775832442587.jpg",
+      "image":"lib/images/station_images/tramontana4_valdemossa__1775832442587.jpg",
       "latitude":39.71086543426136,
       "longitude":2.6212592138792385,
       "category":"other"
@@ -504,7 +504,7 @@
          "es":"",
          "de":""
       },
-      "image":"images/station_images/tramontana5_deia__1775834289910.jpg",
+      "image":"lib/images/station_images/tramontana5_deia__1775834289910.jpg",
       "latitude":39.74855899698222,
       "longitude":2.6487429387917754,
       "category":"other"
@@ -521,7 +521,7 @@
          "es":"",
          "de":""
       },
-      "image":"images/station_images/tramontana6_port_de_soller__1775836017318.jpg",
+      "image":"lib/images/station_images/tramontana6_port_de_soller__1775836017318.jpg",
       "latitude":39.79664707025338,
       "longitude":2.6971294881585046,
       "category":"other"
@@ -555,7 +555,7 @@
          "es":"",
          "de":""
       },
-      "image":"images/station_images/tramontana8_esporles__1775839784955.jpg",
+      "image":"lib/images/station_images/tramontana8_esporles__1775839784955.jpg",
       "latitude":39.6680047087578,
       "longitude":2.5781980620985343,
       "category":"other"
