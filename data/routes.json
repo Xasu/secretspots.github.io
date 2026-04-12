@@ -9,7 +9,7 @@
     "description": ["A scenic tour around Andratx!"],
     "stationIds": ["port_d_andratx","sant_elm","andratx","es_capdella"],
     "returnStationId": "vespahouse",
-    "allowedCodes": ["ROUTE1"]
+    "allowedCodes": ["ROUTE1", "vespahouse"]
   },
   {
     "id": "route2",
@@ -19,20 +19,32 @@
       "es": "Vespa Tour 2 - Playas y Puertos"
     },
     "description": ["A scenic tour to different beaches and ports!"],
-    "stationIds": ["platja_de_chicanso","playa_de_illetes","caleta_de_portals_nous","purto_portals","torrenova","magaluv_viewpoint","calvia_beach","calo_de_sa_nostra_dona","platja_del_rei","port_adriano","platja_cala_blanca"],
+    "stationIds": ["platja_de_chicanso","playa_de_illetes","caleta_de_portals_nous","torrenova","calvia_beach","platja_del_rei","port_adriano","platja_cala_blanca"],
     "returnStationId": "vespahouse",
-    "allowedCodes": ["ROUTE2"]
+    "allowedCodes": ["ROUTE2", "vespahouse"]
   },  
   {
     "id": "route3",
     "name": {
-      "en": "Tramontana Route",
-      "de": "Tramontana Route",
-      "es": "Tramontana Route"
+      "en": "Tramontana Route - Long",
+      "de": "Tramontana Route - Lang",
+      "es": "Tramontana Route - Largo"
     },
     "description": ["A scenic tour around Tramontana!"],
     "stationIds": ["Tramontana1","Tramontana2(Estellencs)","Tramontana3(Banyalbufar)","Tramontana4(Valdemossa)","Tramontana5(Deia)","Tramontana6(Port de Soller)","Tramontana7(Bunyola)","Tramontana8(Esporles)","Tramontana9(Villa)","Tramontana9(Galilea)"],
     "returnStationId": "vespahouse",
-    "allowedCodes": ["ROUTE3"]
+    "allowedCodes": ["ROUTE3", "vespahouse"]
+  },
+  {
+    "id": "route4",
+    "name": {
+      "en": "Tramontana Route - Short",
+      "de": "Tramontana Route - Kurz",
+      "es": "Tramontana Route - Corto"
+    },
+    "description": ["A compact Tramontana tour with key mountain viewpoints and a return to Vespa House."],
+    "stationIds": ["Tramontana1","Tramontana2(Estellencs)","Tramontana3(Banyalbufar)","Tramontana4(Valdemossa)","Tramontana8(Esporles)","Tramontana9(Villa)","Tramontana9(Galilea)"],
+    "returnStationId": "vespahouse",
+    "allowedCodes": ["ROUTE4", "vespahouse"]
   }
 ]
