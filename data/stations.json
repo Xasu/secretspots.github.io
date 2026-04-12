@@ -267,9 +267,9 @@
       "es": "Una vista impresionante del puerto deportivo de Portals Nous."
     },
     "image": "assets/images/station_images/platja_palmira.jpg",
-    "latitude": 39.529591,
-    "longitude": 2.565640,
-    "category": "beach"
+    "latitude": 39.531182465782784,
+    "longitude": 2.56775753939699,
+    "category": "port"
   },
   {
     "id": "torrenova",
@@ -320,7 +320,7 @@
     "image": "assets/images/station_images/platja_palmira.jpg",
     "latitude": 39.503093762214895,
     "longitude": 2.5335560368890975,
-    "category": "other"
+    "category": "beach"
   },
   {
     "id": "calo_de_sa_nostra_dona",
@@ -348,7 +348,7 @@
     },
     "description": {
       "en": "NO DESCRIPTION",
-      "de": "KEINE BESCHREIBUNG",
+      "de": "Bei diesem Strand muss man einen Schotterweg zu Fuß zum Strand zurücklegen.",
       "es": "NO HAY DESCRIPCIÓN"
     },
     "image": "assets/images/station_images/platja_palmira.jpg",
@@ -369,9 +369,9 @@
       "es": "NO HAY DESCRIPCIÓN"
     },
     "image": "assets/images/station_images/platja_palmira.jpg",
-    "latitude": 39.490497543219725,
-    "longitude": 2.479176822749332,
-    "category": "beach"
+    "latitude": 39.489786564470705,
+    "longitude": 2.4790621719792973,
+    "category": "port"
   },
   {
     "id": "platja_cala_blanca",
