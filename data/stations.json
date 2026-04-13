@@ -14,7 +14,7 @@
     "image": "assets/images/station_images/beach1.jpg",
     "latitude": 39.538520252662714,
     "longitude": 2.448403641878562,
-    "category": "other"
+    "category": "parking"
   },
   {
     "id": "cala_fornells",
@@ -167,7 +167,7 @@
     "image": "assets/images/station_images/platja_palmira.jpg",
     "latitude": 39.577632,
     "longitude": 2.390149,
-    "category": "other"
+    "category": "culture"
   },
   {
     "id": "andratx",
@@ -303,7 +303,7 @@
     "image": "assets/images/station_images/platja_palmira.jpg",
     "latitude": 39.513916,
     "longitude": 2.525021,
-    "category": "other"
+    "category": "viewpoint"
   },
   {
     "id": "calvia_beach",
@@ -337,7 +337,7 @@
     "image": "assets/images/station_images/platja_palmira.jpg",
     "latitude": 39.483393545913046,
     "longitude": 2.52994228640645,
-    "category": "other"
+    "category": "beach"
   },
   {
     "id": "platja_del_rei",
@@ -391,258 +391,258 @@
     "category": "beach"
   },
   {
-   "id":"Sant Elm Restaurant",
-   "title": {
-      "en":"Sant Elm Restaurant",
-      "es":"Sant Elm Restaurant",
-      "de":"Sant Elm Restaurant"
-   },
-   "description":{
-      "en":"",
-      "es":"",
-      "de":""
-   },
-   "image":"https://raw.githubusercontent.com/Xasu/secretspots.github.io/main/images/sant_elm_restaurant_1775814287927.jpg",
-   "latitude":39.57834489272662,
-   "longitude":2.3534566307669227,
-   "category":"other"
-},
-{
-   "id":"Strand Sant Elm",
-   "title":{
-      "en":"Strand Sant Elm",
-      "es":"Strand Sant Elm",
-      "de":"Strand Sant Elm"
-   },
-   "description":{
-      "en":"",
-      "es":"",
-      "de":""
-   },
-   "image":"https://raw.githubusercontent.com/Xasu/secretspots.github.io/main/images/strand_sant_elm_1775814772109.jpg",
-   "latitude":39.578070283692995,
-   "longitude":2.3537812951235852,
-   "category":"other"
-},
-{
-  "id":"Tramontana1",
-  "title":{
-    "en":"Tramontana",
-    "es":"Tramontana",
-    "de":"Tramontana"
+    "id": "Sant Elm Restaurant",
+    "title": {
+      "en": "Sant Elm Restaurant",
+      "es": "Sant Elm Restaurant",
+      "de": "Sant Elm Restaurant"
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "de": ""
+    },
+    "image": "https://raw.githubusercontent.com/Xasu/secretspots.github.io/main/images/sant_elm_restaurant_1775814287927.jpg",
+    "latitude": 39.57834489272662,
+    "longitude": 2.3534566307669227,
+    "category": "food"
   },
-  "description":{
-    "en":"",
-    "es":"",
-    "de":""
+  {
+    "id": "Strand Sant Elm",
+    "title": {
+      "en": "Strand Sant Elm",
+      "es": "Strand Sant Elm",
+      "de": "Strand Sant Elm"
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "de": ""
+    },
+    "image": "https://raw.githubusercontent.com/Xasu/secretspots.github.io/main/images/strand_sant_elm_1775814772109.jpg",
+    "latitude": 39.578070283692995,
+    "longitude": 2.3537812951235852,
+    "category": "beach"
   },
-  "image":"lib/images/station_images/tramontana1_1775827104990.jpg",
-  "latitude":39.64506197358322,
-  "longitude":2.4504469704747116,
-  "category":"other"
-},
-{
-  "id":"Tramontana2(Estellencs)",
-  "title":{
-    "en":"Estellencs",
-    "es":"Estellencs",
-    "de":"Estellencs"
+  {
+    "id": "Tramontana1",
+    "title": {
+      "en": "Tramontana",
+      "es": "Tramontana",
+      "de": "Tramontana"
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "de": ""
+    },
+    "image": "lib/images/station_images/tramontana1_1775827104990.jpg",
+    "latitude": 39.64506197358322,
+    "longitude": 2.4504469704747116,
+    "category": "viewpoint"
   },
-  "description":{
-    "en":"",
-    "es":"",
-    "de":""
+  {
+    "id": "Tramontana2(Estellencs)",
+    "title": {
+      "en": "Estellencs",
+      "es": "Estellencs",
+      "de": "Estellencs"
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "de": ""
+    },
+    "image": "lib/images/station_images/tramontana2_estellencs__1775829803907.jpg",
+    "latitude": 39.65266624072696,
+    "longitude": 2.480926904319186,
+    "category": "culture"
   },
-  "image":"lib/images/station_images/tramontana2_estellencs__1775829803907.jpg",
-  "latitude":39.65266624072696,
-  "longitude":2.480926904319186,
-  "category":"other"
-},
-{
-  "id":"Tramontana3(Banyalbufar)",
-  "title":{
-    "en":"Banyalbufar",
-    "es":"Banyalbufar",
-    "de":"Banyalbufar"
+  {
+    "id": "Tramontana3(Banyalbufar)",
+    "title": {
+      "en": "Banyalbufar",
+      "es": "Banyalbufar",
+      "de": "Banyalbufar"
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "de": ""
+    },
+    "image": "lib/images/station_images/tramontana3_banyalbufar__1775830669659.jpg",
+    "latitude": 39.68682482167673,
+    "longitude": 2.513079081448408,
+    "category": "culture"
   },
-  "description":{
-    "en":"",
-    "es":"",
-    "de":""
+  {
+    "id": "Tramontana4(Valdemossa)",
+    "title": {
+      "en": "Valdemossa",
+      "es": "Valdemossa",
+      "de": "Valdemossa"
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "de": ""
+    },
+    "image": "lib/images/station_images/tramontana4_valdemossa__1775832442587.jpg",
+    "latitude": 39.71086543426136,
+    "longitude": 2.6212592138792385,
+    "category": "culture"
   },
-  "image":"lib/images/station_images/tramontana3_banyalbufar__1775830669659.jpg",
-  "latitude":39.68682482167673,
-  "longitude":2.513079081448408,
-  "category":"other"
-},
-{
-  "id":"Tramontana4(Valdemossa)",
-  "title":{
-    "en":"Valdemossa",
-    "es":"Valdemossa",
-    "de":"Valdemossa"
+  {
+    "id": "Tramontana5(Deia)",
+    "title": {
+      "en": "Deia",
+      "es": "Deia",
+      "de": "Deia"
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "de": ""
+    },
+    "image": "lib/images/station_images/tramontana5_deia__1775834289910.jpg",
+    "latitude": 39.74855899698222,
+    "longitude": 2.6487429387917754,
+    "category": "culture"
   },
-  "description":{
-    "en":"",
-    "es":"",
-    "de":""
+  {
+    "id": "Tramontana6(Port de Soller)",
+    "title": {
+      "en": "Port de Soller",
+      "es": "Port de Soller",
+      "de": "Port de Soller"
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "de": ""
+    },
+    "image": "lib/images/station_images/tramontana6_port_de_soller__1775836017318.jpg",
+    "latitude": 39.79664707025338,
+    "longitude": 2.6971294881585046,
+    "category": "port"
   },
-  "image":"lib/images/station_images/tramontana4_valdemossa__1775832442587.jpg",
-  "latitude":39.71086543426136,
-  "longitude":2.6212592138792385,
-  "category":"other"
-},
-{
-  "id":"Tramontana5(Deia)",
-  "title":{
-    "en":"Deia",
-    "es":"Deia",
-    "de":"Deia"
+  {
+    "id": "Tramontana7(Bunyola)",
+    "title": {
+      "en": "Bunyola",
+      "es": "Bunyola",
+      "de": "Bunyola"
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "de": ""
+    },
+    "image": null,
+    "latitude": 39.69625725872833,
+    "longitude": 2.6991739800816745,
+    "category": "culture"
   },
-  "description":{
-    "en":"",
-    "es":"",
-    "de":""
+  {
+    "id": "Tramontana8(Esporles)",
+    "title": {
+      "en": "Esporles",
+      "es": "Esporles",
+      "de": "Esporles"
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "de": ""
+    },
+    "image": "lib/images/station_images/tramontana8_esporles__1775839784955.jpg",
+    "latitude": 39.6680047087578,
+    "longitude": 2.5781980620985343,
+    "category": "culture"
   },
-  "image":"lib/images/station_images/tramontana5_deia__1775834289910.jpg",
-  "latitude":39.74855899698222,
-  "longitude":2.6487429387917754,
-  "category":"other"
-},
-{
-  "id":"Tramontana6(Port de Soller)",
-  "title":{
-    "en":"Port de Soller",
-    "es":"Port de Soller",
-    "de":"Port de Soller"
+  {
+    "id": "Tramontana9(Villa)",
+    "title": {
+      "en": "Villa",
+      "es": "Villa",
+      "de": "Villa"
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "de": ""
+    },
+    "image": null,
+    "latitude": 39.66666449190619,
+    "longitude": 2.5549786875901654,
+    "category": "culture"
   },
-  "description":{
-    "en":"",
-    "es":"",
-    "de":""
+  {
+    "id": "Tramontana9(Galilea)",
+    "title": {
+      "en": "Galilea",
+      "es": "Galilea",
+      "de": "Galilea"
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "de": ""
+    },
+    "image": null,
+    "latitude": 39.60807361981411,
+    "longitude": 2.5039326110923095,
+    "category": "culture"
   },
-  "image":"lib/images/station_images/tramontana6_port_de_soller__1775836017318.jpg",
-  "latitude":39.79664707025338,
-  "longitude":2.6971294881585046,
-  "category":"other"
-},
-{
-  "id":"Tramontana7(Bunyola)",
-  "title":{
-    "en":"Bunyola",
-    "es":"Bunyola",
-    "de":"Bunyola"
+  {
+    "id": "Platja Cas Català Calvià",
+    "title": {
+      "en": "Platja Cas Catala Calvia",
+      "es": "Platja Cas Catala Calvia",
+      "de": "Platja Cas Catala Calvia"
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "de": ""
+    },
+    "image": "lib/images/station_images/platja_cas_catal_calvi__1775901787527.jpg",
+    "latitude": 39.54587832504623,
+    "longitude": 2.5956804794003663,
+    "category": "beach"
   },
-  "description":{
-    "en":"",
-    "es":"",
-    "de":""
+  {
+    "id": "Platja Santa Ponsa",
+    "title": {
+      "en": "Platja Santa Ponsa",
+      "es": "Platja Santa Ponsa",
+      "de": "Platja Santa Ponsa"
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "de": ""
+    },
+    "image": "lib/images/station_images/platja_santa_ponsa_1775912403840.jpg",
+    "latitude": 39.51430513164898,
+    "longitude": 2.480454049724662,
+    "category": "beach"
   },
-  "image":null,
-  "latitude":39.69625725872833,
-  "longitude":2.6991739800816745,
-  "category":"other"
-},
-{
-  "id":"Tramontana8(Esporles)",
-  "title":{
-    "en":"Esporles",
-    "es":"Esporles",
-    "de":"Esporles"
-  },
-  "description":{
-    "en":"",
-    "es":"",
-    "de":""
-  },
-  "image":"lib/images/station_images/tramontana8_esporles__1775839784955.jpg",
-  "latitude":39.6680047087578,
-  "longitude":2.5781980620985343,
-  "category":"other"
-},
-{
-  "id":"Tramontana9(Villa)",
-  "title":{
-    "en":"Villa",
-    "es":"Villa",
-    "de":"Villa"
-  },
-  "description":{
-    "en":"",
-    "es":"",
-    "de":""
-  },
-  "image":null,
-  "latitude":39.66666449190619,
-  "longitude":2.5549786875901654,
-  "category":"other"
-},
-{
-  "id":"Tramontana9(Galilea)",
-  "title":{
-    "en":"Galilea",
-    "es":"Galilea",
-    "de":"Galilea"
-  },
-  "description":{
-    "en":"",
-    "es":"",
-    "de":""
-  },
-  "image":null,
-  "latitude":39.60807361981411,
-  "longitude":2.5039326110923095,
-  "category":"other"
-},
-{
-  "id":"Platja Cas Català Calvià",
-  "title":{
-    "en":"Platja Cas Catala Calvia",
-    "es":"Platja Cas Catala Calvia",
-    "de":"Platja Cas Catala Calvia"
-  },
-  "description":{
-    "en":"",
-    "es":"",
-    "de":""
-  },
-  "image":"lib/images/station_images/platja_cas_catal_calvi__1775901787527.jpg",
-  "latitude":39.54587832504623,
-  "longitude":2.5956804794003663,
-  "category":"beach"
-},
-{
-  "id":"Platja Santa Ponsa",
-  "title":{
-    "en":"Platja Santa Ponsa",
-    "es":"Platja Santa Ponsa",
-    "de":"Platja Santa Ponsa"
-  },
-  "description":{
-    "en":"",
-    "es":"",
-    "de":""
-  },
-  "image":"lib/images/station_images/platja_santa_ponsa_1775912403840.jpg",
-  "latitude":39.51430513164898,
-  "longitude":2.480454049724662,
-  "category":"beach"
-},
-{
-  "id":"Tankstelle Peguera",
-  "title":{
-    "en":"Gasstation Peguera",
-    "es":"Tankstelle Peguera",
-    "de":"Gasolinera Peguera"
-  },
-  "description":{
-    "en":"",
-    "es":"",
-    "de":""
-  },
-  "image":null,
-  "latitude":39.54425937002341,
-  "longitude":2.4518419285095425,
-  "category":"fuel"
-}
+  {
+    "id": "Tankstelle Peguera",
+    "title": {
+      "en": "Gasstation Peguera",
+      "es": "Tankstelle Peguera",
+      "de": "Gasolinera Peguera"
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "de": ""
+    },
+    "image": null,
+    "latitude": 39.54425937002341,
+    "longitude": 2.4518419285095425,
+    "category": "fuel"
+  }
 ]
